@@ -1,3 +1,3 @@
 This is my first document to simulate GIT REPOSITORY
 
-Second Change
+Removed the second change and add this line
